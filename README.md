@@ -1,5 +1,5 @@
 
-# 💸 App de Organização de Finanças Pessoais do Marcos com Vibe Coding  
+# 💸 App de Organização de Finanças Pessoais  
 Este projeto foi criado como parte de um desafio da DIO sobre Vibe Coding, usando as ferramentas Lovable e Copilot Web. A ideia é desenvolver um aplicativo que ajude as pessoas a organizar suas finanças pessoais de forma simples, usando conversas em linguagem natural, como se estivesse falando com alguém.
 
 ## 📑 PRD – Aplicativo de Finanças Conversacionais  
